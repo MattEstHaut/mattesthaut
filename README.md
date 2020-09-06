@@ -24,5 +24,5 @@ I am a student in mathematics and computer science at the University of Strasbou
 
 ### what am I doing ? ⚙️
   
-- [ ] Finish my ["boids" project](https://github.com/MattEstHaut/boids).
+- [x] Finish my ["boids" project](https://github.com/MattEstHaut/boids).
 - [ ] Make my [GitHub page](https://mattesthaut.github.io/). 
