@@ -20,7 +20,7 @@ I am a student in mathematics and computer science at the University of Strasbou
 
 - [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids)  
 
->⚠️*: this section contains only the projects accessible on my GitHub.*
+>⚠️: this section contains only the projects accessible on my GitHub.
 
 ### what am I doing ? ⚙️
   
