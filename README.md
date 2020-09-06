@@ -18,7 +18,9 @@ I am a student in mathematics and computer science at the University of Strasbou
 
 ### What I did ? ✔️
 
-- [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids)
+- [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids)  
+
+>⚠️*: this section contains only the projects accessible on my GitHub.*
 
 ### what am I doing ? ⚙️
   
