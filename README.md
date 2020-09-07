@@ -2,7 +2,7 @@
   
 **fullname 👑 :** DELUCCHI Mattéo  
 **birthdate 🎂 :** 03 march 2002  
-**level of education 📘 :** first years at university  
+**level of education 📘 :** first year at college  
   
 I am a student in mathematics and computer science at the University of Strasbourg in France. I'm interested in many areas of computer science, such as machine learning, web design, etc...
   
