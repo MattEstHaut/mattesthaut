@@ -1,12 +1,12 @@
-### Who am I ? 🤷‍♂️
+### Who I am ? 🤷‍♂️
   
 **fullname 👑 :** DELUCCHI Mattéo  
 **birthdate 🎂 :** 03 march 2002  
-**level of education 📘 :** first year at college  
+**level of education 📘 :** first years at university  
   
 I am a student in mathematics and computer science at the University of Strasbourg in France. I'm interested in many areas of computer science, such as machine learning, web design, etc...
   
-### Which languages do I know ? 📚
+### Which languages I know ? 📚
   
 - HTML (✨good✨)
 - CSS (✨good✨)
@@ -26,3 +26,5 @@ I am a student in mathematics and computer science at the University of Strasbou
   
 - [x] Finish my ["boids" project](https://github.com/MattEstHaut/boids).
 - [ ] Make my [GitHub page](https://mattesthaut.github.io/). 
+- [ ] Improve my ["boids" project](https://github.com/MattEstHaut/boids).  
+- [ ] Make a simple game about artificial life.
