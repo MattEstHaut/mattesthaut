@@ -26,5 +26,7 @@ I am a student in mathematics and computer science at the University of Strasbou
   
 - [x] Finish my ["boids" project](https://github.com/MattEstHaut/boids).
 - [ ] Make my [GitHub page](https://mattesthaut.github.io/). 
-- [ ] Improve my ["boids" project](https://github.com/MattEstHaut/boids).  
+- [X] Improve my ["boids" project](https://github.com/MattEstHaut/boids).  
 - [ ] Make a simple game about artificial life.
+- [ ] Make a pathfinder algorithm.
+- [ ] Learn assembler.
