@@ -30,3 +30,4 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [ ] Make a simple game about artificial life.
 - [ ] Make a pathfinder algorithm.
 - [ ] Learn assembler.
+- [ ] Make a v3 of ["boids" project](https://github.com/MattEstHaut/boids). 
