@@ -32,4 +32,5 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [X] Make a [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
 - [ ] Learn assembler.
 - [ ] Make a v3 of ["boids" project](https://github.com/MattEstHaut/boids). 
-- [ ] Remake the pathfinder algorithm in Javascript.  
+- [X] Remake the [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder) in Javascript. 
+- [ ] Make a GitHub page for the pathfinder application.
