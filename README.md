@@ -19,7 +19,7 @@ I am a student in mathematics and computer science at the University of Strasbou
 ### What I did ? ✔️
 
 - [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids) 
-- [pathfinder algorithm](https://mattesthaut.github.io/pathfinder). [(repository)](https://github.com/MattEstHaut/pathfinder.
+- [pathfinder algorithm](https://mattesthaut.github.io/pathfinder). [(repository)](https://github.com/MattEstHaut/pathfinder)
 
 >⚠️: this section contains only the projects accessible on my GitHub.
 
