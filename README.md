@@ -20,7 +20,7 @@ I am a student in mathematics and computer science at the University of Strasbou
 
 - [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids) 
 - [pathfinder algorithm](https://mattesthaut.github.io/pathfinder). [(repository)](https://github.com/MattEstHaut/pathfinder)
-- [dot screen engine](https://github.com/MattEstHaut/dotscreen)
+- [dot screen engine](https://mattesthaut.github.io). [(repository)](https://github.com/MattEstHaut/dotscreen)
 
 >⚠️: this section contains only the projects accessible on my GitHub.
 
@@ -39,5 +39,5 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [X] Make a [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [ ] Document the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [ ] Make a online image editor for the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
-- [ ] Improve the python version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
+- [X] Improve the python version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
 - [ ] Improve the javascript version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
