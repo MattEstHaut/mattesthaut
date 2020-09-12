@@ -35,7 +35,7 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [ ] Make a v3 of ["boids" project](https://github.com/MattEstHaut/boids). 
 - [X] Remake the [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder) in Javascript. 
 - [X] Make a GitHub page for the [pathfinder application](https://mattesthaut.github.io/pathfinder).
-- [ ] Document [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
+- [X] Document [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
 - [X] Make a [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [ ] Document the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [ ] Make a online image editor for the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
