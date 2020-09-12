@@ -40,4 +40,4 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [ ] Document the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [ ] Make a online image editor for the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [X] Improve the python version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
-- [ ] Improve the javascript version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
+- [X] Improve the javascript version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
