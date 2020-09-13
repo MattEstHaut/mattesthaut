@@ -21,7 +21,9 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [bird flock simulation](https://mattesthaut.github.io/boids). [(repository)](https://github.com/MattEstHaut/boids) 
 - [pathfinder algorithm](https://mattesthaut.github.io/pathfinder). [(repository)](https://github.com/MattEstHaut/pathfinder)
 - [dot screen engine](https://mattesthaut.github.io). [(repository)](https://github.com/MattEstHaut/dotscreen)
+- [fractal visualizer](https://mattesthaut.github.io/fractal/). [(repository)](https://github.com/MattEstHaut/fractal)
 
+>⚠️: this section contains non-responsive web applications.
 >⚠️: this section contains only the projects accessible on my GitHub.
 
 ### what am I doing ? ⚙️
@@ -40,4 +42,4 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [ ] Make a online image editor for the [dot screen engine](https://github.com/MattEstHaut/dotscreen).
 - [X] Improve the python version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
 - [X] Improve the javascript version of [pathfinder algorithm](https://github.com/MattEstHaut/pathfinder).
-- [ ] Make a fractal visualizer. 
+- [X] Make a fractal visualizer. 
