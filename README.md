@@ -23,5 +23,5 @@ I am a student in mathematics and computer science at the University of Strasbou
 - [dot screen engine](https://mattesthaut.github.io). [(repository)](https://github.com/MattEstHaut/dotscreen)
 - [fractal visualizer](https://mattesthaut.github.io/fractal/). [(repository)](https://github.com/MattEstHaut/fractal)
 
->⚠️: this section contains non-responsive web applications.
+>⚠️: this section contains non-responsive web applications.  
 >⚠️: this section contains only the projects accessible on my GitHub.
