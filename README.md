@@ -8,12 +8,12 @@ I am a student in mathematics and computer science at the University of Strasbou
   
 ### Which languages I know ? 📚
   
+- C/C++ (✨good✨)
 - HTML (✨good✨)
 - CSS (✨good✨)
 - Javascript (✨good✨)
 - Python (✨good✨)
 - Node.js (👍medium👍)
-- C/C++ (👍medium👍)
 - SQL (⚙️low⚙️)
 
 ### What I did ? ✔️
